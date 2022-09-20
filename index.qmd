@@ -16,9 +16,15 @@ An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its
 
 ------------------------------------------------------------------------
 
-### Session 1
+### Session 1 & 2
 
-- *coming soon*
+- [Slides](r_intro_part1.pdf)
+- Code
+    - weighted dice (We will code this one together.)
+    - R basic data structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2022-fall/blob/master/docs/R_Basic_Data_Structures.ipynb))
+    - R basic programming structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2022-fall/blob/master/docs/R_Basic_Programming_Structures.ipynb))
+- Reading list
+    - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (Session 1: Chapter 1 to 3; Session 2: *coming later*)
 
 
 ------------------------------------------------------------------------
